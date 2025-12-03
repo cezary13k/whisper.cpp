@@ -1,4 +1,4 @@
-#!/bin/sh
+ #!/bin/sh
 
 # This script downloads Whisper model files that have already been converted to ggml format.
 # This way you don't have to convert them yourself.
